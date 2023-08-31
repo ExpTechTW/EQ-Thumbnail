@@ -2,7 +2,6 @@ from PIL import Image, ImageDraw, ImageFont
 
 image_path = input("底圖檔案名稱: ")
 text = input("震央位置: ")
-text = f"\u5609\u7fa9\u7e23\u6c11\u96c4\u9109"
 max = input("最大震度(0~9): ")
 loc = input("本地震度(0~9): ")
 
