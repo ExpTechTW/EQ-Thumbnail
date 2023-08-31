@@ -1,9 +1,9 @@
-# 模板
+# EQ-Thumbnail
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- 一個製作 流媒體平臺 `縮圖` 的 工具
 
 ## 索引
 - [貢獻者](#貢獻者)
